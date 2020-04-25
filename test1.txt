@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 808F-ACA5
+
+ Directory of C:\Users\mayank\Desktop\MyProject
+
+04/25/2020  01:16 PM    <DIR>          .
+04/25/2020  01:16 PM    <DIR>          ..
+04/25/2020  01:16 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  35,600,715,776 bytes free
